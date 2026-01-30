@@ -1,4 +1,5 @@
-"users": 
+{
+"users": [
   {
     "id": 1,
     "name": "A",
@@ -6,4 +7,5 @@
     "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTWpnc1fmrgl6Dz7n7TZHnqqJHfudutK3lg&s",
     "balance": 1
   }
-
+ ]
+}
